@@ -1,0 +1,23 @@
+---
+---
+
+// Import Just-the-Docs to get all its defaults
+@import "just-the-docs";
+
+// Base link/accent color (used for standard text links)
+$link-color: #FF8822;
+
+// Primary color for navigation and callouts (Bright Orange/Fox Tail)
+$nav-list-link-color-active: #FF9933;
+
+// Soft gray for inactive navigation links
+$nav-list-link-color: #AAAAAA;
+
+// Gold for syntax highlighting keywords (Code blocks)
+$code-term-color: #DAA520; 
+
+// Background for code blocks - a slightly warm, deep slate
+$code-block-background-color: #2D2D2D;
+
+// Background for the main content area (Dark Slate)
+$body-background-color: #1A1A1A;
