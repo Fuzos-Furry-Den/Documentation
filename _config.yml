@@ -1,0 +1,10 @@
+title: Fuzo's Furry Den
+theme: minima 
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: just-the-docs/just-the-docs
+
+# --- Just the Docs Configuration ---
+color_scheme: "dark" # Enforce dark mode
